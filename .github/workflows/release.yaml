@@ -31,7 +31,7 @@ jobs:
       - name: "🔧 build"
         run: |
           se build-images .
-          se build .
+          se build --kobo .
         env:
           GITHUB_TOKEN: ${{ github.token }}
 

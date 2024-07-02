@@ -27,7 +27,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">[Subject1Id]</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">[Subject1Id]</meta>
+		<meta property="term" refines="#subject-2">[Subject2Id]</meta>
 		<dc:description id="description">[Description]</dc:description>
 		<meta id="collection-1" property="belongs-to-collection">[CollectionName]</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>

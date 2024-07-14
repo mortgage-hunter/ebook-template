@@ -6,7 +6,7 @@
 			<reason>File unrelated to the book.</reason>
 		</ignore>
 	</file>
-  <file path="workflows">
+	<file path="workflows">
 		<ignore>
 			<code>f-008</code>
 			<reason>Path unrelated to the book.</reason>
